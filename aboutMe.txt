@@ -1,0 +1,14 @@
+Name: Laura Phipps
+using vim is helpful to edit in your terminal
+Remember to instert when needed
+and to esape to get out
+to wq which is write quit to save before escape?
+no after
+trying to escape
+
+
+making changes :)
+
+
+
+
