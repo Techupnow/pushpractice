@@ -1,4 +1,4 @@
-Name: Laura Phipps
+Name:+ Laura Phipps
 using vim is helpful to edit in your terminal
 Remember to instert when needed
 and to esape to get out
